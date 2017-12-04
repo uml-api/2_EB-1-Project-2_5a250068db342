@@ -1,0 +1,15 @@
+{
+  "files": {
+    "guid0003": {
+      "content": "'test coment",
+      "scheme_url": ""
+    }
+  },
+  "items": [
+    {
+      "type": "file",
+      "guid": "guid0003",
+      "title": "Test file"
+    }
+  ]
+}
